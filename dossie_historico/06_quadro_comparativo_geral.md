@@ -1,6 +1,6 @@
 # 🏛️ Observatório Macro Brasil: Quadro Comparativo de Governos (2003 - 2026)
 
-> **Data de Geração:** 26/10/2026 18:20 | **Fonte Primária:** Banco Central do Brasil (SGS) e IBGE
+> **Data de Geração:** 26/10/2026 22:21 | **Fonte Primária:** Banco Central do Brasil (SGS) e IBGE
 
 Este documento apresenta uma consolidação puramente estatística e factual comparando os mandatos de **Lula (1 e 2)**, **Dilma Rousseff**, **Michel Temer**, **Jair Bolsonaro** e **Lula (3)** sob a ótica das principais variáveis macroeconômicas.
 
