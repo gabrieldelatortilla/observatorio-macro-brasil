@@ -1,0 +1,40 @@
+name: 🛰️ Observatório Brasil - Atualização Mensal Autônoma
+
+on:
+  schedule:
+    # Executa todo dia 1º de cada mês às 06:00 UTC (03:00 Horário de Brasília)
+    - cron: '0 6 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar_dados:
+    name: 📊 Coleta de Dados Oficiais (BCB/IBGE) e Geração de Dossiês
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Clonar Repositório
+        uses: actions/checkout@v4
+
+      - name: 🐍 Configurar Ambiente Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 🛰️ Executar Coletor Autônomo do Banco Central (Zero API Paga)
+        run: |
+          python observatorio_brasil/core/coletor_bcb.py
+
+      - name: 📊 Regenerar Matriz e Quadro Comparativo de Governos
+        run: |
+          python observatorio_brasil/core/gerador_comparativo.py
+
+      - name: 💾 Persistir Atualizações no Repositório
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "Observatório Brasil Bot"
+          git add observatorio_brasil/dados/* observatorio_brasil/dossie_historico/*
+          git diff --staged --quiet || git commit -m "chore(observatorio): atualização mensal automática dos indicadores econômicos [skip ci]"
+          git push

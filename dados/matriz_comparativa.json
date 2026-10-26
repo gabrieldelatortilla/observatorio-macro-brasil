@@ -1,0 +1,483 @@
+{
+  "lula_1_e_2": {
+    "info": {
+      "nome": "Lula (1º e 2º Mandatos)",
+      "presidente": "Luiz Inácio Lula da Silva",
+      "inicio": "2003-01-01",
+      "fim": "2010-12-31",
+      "partido": "PT",
+      "vice": "José Alencar (PL/PRB)",
+      "duracao_anos": 8
+    },
+    "metricas": {
+      "ipca_mensal": {
+        "tipo": "composto",
+        "total_meses": 96,
+        "acumulado_periodo_pct": 56.68,
+        "media_mensal_pct": 0.47,
+        "min": -0.21,
+        "max": 2.25
+      },
+      "selic_anualizada": {
+        "tipo": "taxa_ou_fluxo",
+        "inicio": 25.06,
+        "fim": 10.66,
+        "media_periodo": 14.78,
+        "total_acumulado": null,
+        "min": 8.65,
+        "max": 26.32
+      },
+      "dolar_comercial": {
+        "tipo": "nivel",
+        "inicio": 3.4384,
+        "fim": 1.6934,
+        "variacao_pct": -50.75,
+        "media_periodo": 2.27,
+        "min": 1.5914,
+        "max": 3.5908
+      },
+      "divida_bruta_pib": {
+        "tipo": "nivel",
+        "inicio": 55.48,
+        "fim": 51.77,
+        "variacao_pct": -6.69,
+        "media_periodo": 56.96,
+        "min": 51.77,
+        "max": 61.0
+      },
+      "divida_liquida_pib": {
+        "tipo": "nivel",
+        "inicio": -1.13,
+        "fim": -1.12,
+        "variacao_pct": -0.88,
+        "media_periodo": -0.39,
+        "min": -1.59,
+        "max": 1.33
+      },
+      "salario_minimo": {
+        "tipo": "nivel",
+        "inicio": 200.0,
+        "fim": 510.0,
+        "variacao_pct": 155.0,
+        "media_periodo": 357.5,
+        "min": 200.0,
+        "max": 510.0
+      },
+      "pib_acumulado_12m": {
+        "tipo": "nivel",
+        "inicio": 125713.7,
+        "fim": 347999.4,
+        "variacao_pct": 176.82,
+        "media_periodo": 221923.84,
+        "min": 125713.7,
+        "max": 358431.8
+      },
+      "balanca_comercial_saldo": {
+        "tipo": "taxa_ou_fluxo",
+        "inicio": 104.3,
+        "fim": 131.59,
+        "media_periodo": 124.07,
+        "total_acumulado": 11911.13,
+        "min": 104.3,
+        "max": 135.2
+      },
+      "resultado_primario_mensal": {
+        "tipo": "taxa_ou_fluxo",
+        "inicio": 19492.31,
+        "fim": 474.99,
+        "media_periodo": -2683.51,
+        "total_acumulado": -225414.47,
+        "min": -31174.28,
+        "max": 30222.43
+      },
+      "ganho_real_salario_minimo": {
+        "tipo": "derivado",
+        "ganho_real_pct": 62.75,
+        "formula": "Fórmula de Fisher [(1 + VarNom) / (1 + IPCA) - 1]"
+      }
+    }
+  },
+  "dilma_1_e_2": {
+    "info": {
+      "nome": "Dilma Rousseff (1º e 2º Mandatos)",
+      "presidente": "Dilma Vana Rousseff",
+      "inicio": "2011-01-01",
+      "fim": "2016-08-31",
+      "partido": "PT",
+      "vice": "Michel Temer (PMDB)",
+      "duracao_anos": 5.67
+    },
+    "metricas": {
+      "ipca_mensal": {
+        "tipo": "composto",
+        "total_meses": 68,
+        "acumulado_periodo_pct": 48.21,
+        "media_mensal_pct": 0.58,
+        "min": 0.01,
+        "max": 1.32
+      },
+      "selic_anualizada": {
+        "tipo": "taxa_ou_fluxo",
+        "inicio": 10.85,
+        "fim": 14.15,
+        "media_periodo": 10.95,
+        "total_acumulado": null,
+        "min": 7.11,
+        "max": 14.15
+      },
+      "dolar_comercial": {
+        "tipo": "nivel",
+        "inicio": 1.6749,
+        "fim": 3.2097,
+        "variacao_pct": 91.64,
+        "media_periodo": 2.45,
+        "min": 1.5639,
+        "max": 4.0524
+      },
+      "divida_bruta_pib": {
+        "tipo": "nivel",
+        "inicio": 52.4,
+        "fim": 69.34,
+        "variacao_pct": 32.33,
+        "media_periodo": 56.28,
+        "min": 51.27,
+        "max": 69.34
+      },
+      "divida_liquida_pib": {
+        "tipo": "nivel",
+        "inicio": -1.14,
+        "fim": -2.56,
+        "variacao_pct": 124.56,
+        "media_periodo": -1.58,
+        "min": -3.77,
+        "max": -0.96
+      },
+      "salario_minimo": {
+        "tipo": "nivel",
+        "inicio": 540.0,
+        "fim": 880.0,
+        "variacao_pct": 62.96,
+        "media_periodo": 695.79,
+        "min": 540.0,
+        "max": 880.0
+      },
+      "desemprego_pnad": {
+        "tipo": "taxa_ou_fluxo",
+        "inicio": 8.0,
+        "fim": 11.9,
+        "media_periodo": 8.01,
+        "total_acumulado": null,
+        "min": 6.2,
+        "max": 11.9
+      },
+      "pib_acumulado_12m": {
+        "tipo": "nivel",
+        "inicio": 327592.4,
+        "fim": 530129.0,
+        "variacao_pct": 61.83,
+        "media_periodo": 447192.2,
+        "min": 327592.4,
+        "max": 530129.0
+      },
+      "balanca_comercial_saldo": {
+        "tipo": "taxa_ou_fluxo",
+        "inicio": 132.15,
+        "fim": 133.9,
+        "media_periodo": 135.84,
+        "total_acumulado": 9236.82,
+        "min": 132.15,
+        "max": 139.1
+      },
+      "ganho_real_salario_minimo": {
+        "tipo": "derivado",
+        "ganho_real_pct": 9.95,
+        "formula": "Fórmula de Fisher [(1 + VarNom) / (1 + IPCA) - 1]"
+      }
+    }
+  },
+  "temer": {
+    "info": {
+      "nome": "Michel Temer",
+      "presidente": "Michel Miguel Elias Temer Lulia",
+      "inicio": "2016-09-01",
+      "fim": "2018-12-31",
+      "partido": "MDB",
+      "vice": "Nenhum (Linha Sucessória)",
+      "duracao_anos": 2.33
+    },
+    "metricas": {
+      "ipca_mensal": {
+        "tipo": "composto",
+        "total_meses": 28,
+        "acumulado_periodo_pct": 7.68,
+        "media_mensal_pct": 0.27,
+        "min": -0.23,
+        "max": 1.26
+      },
+      "selic_anualizada": {
+        "tipo": "taxa_ou_fluxo",
+        "inicio": 14.15,
+        "fim": 6.4,
+        "media_periodo": 9.09,
+        "total_acumulado": null,
+        "min": 6.4,
+        "max": 14.15
+      },
+      "dolar_comercial": {
+        "tipo": "nivel",
+        "inicio": 3.2564,
+        "fim": 3.8851,
+        "variacao_pct": 19.31,
+        "media_periodo": 3.4,
+        "min": 3.1042,
+        "max": 4.1165
+      },
+      "divida_bruta_pib": {
+        "tipo": "nivel",
+        "inicio": 69.98,
+        "fim": 75.27,
+        "variacao_pct": 7.56,
+        "media_periodo": 73.4,
+        "min": 69.78,
+        "max": 76.13
+      },
+      "divida_liquida_pib": {
+        "tipo": "nivel",
+        "inicio": -2.59,
+        "fim": -2.83,
+        "variacao_pct": 9.27,
+        "media_periodo": -2.73,
+        "min": -2.93,
+        "max": -2.28
+      },
+      "salario_minimo": {
+        "tipo": "nivel",
+        "inicio": 880.0,
+        "fim": 954.0,
+        "variacao_pct": 8.41,
+        "media_periodo": 936.14,
+        "min": 880.0,
+        "max": 954.0
+      },
+      "desemprego_pnad": {
+        "tipo": "taxa_ou_fluxo",
+        "inicio": 11.9,
+        "fim": 11.7,
+        "media_periodo": 12.53,
+        "total_acumulado": null,
+        "min": 11.7,
+        "max": 13.9
+      },
+      "pib_acumulado_12m": {
+        "tipo": "nivel",
+        "inicio": 524950.9,
+        "fim": 600965.9,
+        "variacao_pct": 14.48,
+        "media_periodo": 562406.4,
+        "min": 511053.8,
+        "max": 611623.5
+      },
+      "balanca_comercial_saldo": {
+        "tipo": "taxa_ou_fluxo",
+        "inicio": 133.41,
+        "fim": 136.93,
+        "media_periodo": 135.84,
+        "total_acumulado": 3803.42,
+        "min": 133.41,
+        "max": 137.65
+      },
+      "ganho_real_salario_minimo": {
+        "tipo": "derivado",
+        "ganho_real_pct": 0.68,
+        "formula": "Fórmula de Fisher [(1 + VarNom) / (1 + IPCA) - 1]"
+      }
+    }
+  },
+  "bolsonaro": {
+    "info": {
+      "nome": "Jair Bolsonaro",
+      "presidente": "Jair Messias Bolsonaro",
+      "inicio": "2019-01-01",
+      "fim": "2022-12-31",
+      "partido": "PSL / PL",
+      "vice": "Antônio Hamilton Martins Mourão (PRTB)",
+      "duracao_anos": 4
+    },
+    "metricas": {
+      "ipca_mensal": {
+        "tipo": "composto",
+        "total_meses": 48,
+        "acumulado_periodo_pct": 26.93,
+        "media_mensal_pct": 0.5,
+        "min": -0.68,
+        "max": 1.62
+      },
+      "selic_anualizada": {
+        "tipo": "taxa_ou_fluxo",
+        "inicio": 6.4,
+        "fim": 13.65,
+        "media_periodo": 6.39,
+        "total_acumulado": null,
+        "min": 1.9,
+        "max": 13.65
+      },
+      "dolar_comercial": {
+        "tipo": "nivel",
+        "inicio": 3.7417,
+        "fim": 5.2424,
+        "variacao_pct": 40.11,
+        "media_periodo": 4.92,
+        "min": 3.7236,
+        "max": 5.6514
+      },
+      "divida_bruta_pib": {
+        "tipo": "nivel",
+        "inicio": 75.44,
+        "fim": 71.68,
+        "variacao_pct": -4.98,
+        "media_periodo": 78.74,
+        "min": 71.68,
+        "max": 87.66
+      },
+      "divida_liquida_pib": {
+        "tipo": "nivel",
+        "inicio": -2.77,
+        "fim": -0.88,
+        "variacao_pct": -68.23,
+        "media_periodo": -4.21,
+        "min": -9.97,
+        "max": -0.69
+      },
+      "salario_minimo": {
+        "tipo": "nivel",
+        "inicio": 998.0,
+        "fim": 1212.0,
+        "variacao_pct": 21.44,
+        "media_periodo": 1088.62,
+        "min": 998.0,
+        "max": 1212.0
+      },
+      "desemprego_pnad": {
+        "tipo": "taxa_ou_fluxo",
+        "inicio": 12.2,
+        "fim": 7.9,
+        "media_periodo": 12.13,
+        "total_acumulado": null,
+        "min": 7.9,
+        "max": 14.9
+      },
+      "pib_acumulado_12m": {
+        "tipo": "nivel",
+        "inicio": 577573.1,
+        "fim": 880600.2,
+        "variacao_pct": 52.47,
+        "media_periodo": 710219.72,
+        "min": 569040.8,
+        "max": 881234.6
+      },
+      "balanca_comercial_saldo": {
+        "tipo": "taxa_ou_fluxo",
+        "inicio": 137.0,
+        "fim": 137.99,
+        "media_periodo": 137.03,
+        "total_acumulado": 1644.33,
+        "min": 136.07,
+        "max": 137.99
+      },
+      "ganho_real_salario_minimo": {
+        "tipo": "derivado",
+        "ganho_real_pct": -4.33,
+        "formula": "Fórmula de Fisher [(1 + VarNom) / (1 + IPCA) - 1]"
+      }
+    }
+  },
+  "lula_3": {
+    "info": {
+      "nome": "Lula (3º Mandato)",
+      "presidente": "Luiz Inácio Lula da Silva",
+      "inicio": "2023-01-01",
+      "fim": "2026-12-31",
+      "partido": "PT",
+      "vice": "Geraldo José Rodrigues Alckmin Filho (PSB)",
+      "duracao_anos": 4
+    },
+    "metricas": {
+      "ipca_mensal": {
+        "tipo": "composto",
+        "total_meses": 45,
+        "acumulado_periodo_pct": 18.87,
+        "media_mensal_pct": 0.39,
+        "min": -0.32,
+        "max": 1.31
+      },
+      "selic_anualizada": {
+        "tipo": "taxa_ou_fluxo",
+        "inicio": 13.65,
+        "fim": 13.65,
+        "media_periodo": 13.12,
+        "total_acumulado": null,
+        "min": 10.4,
+        "max": 14.9
+      },
+      "dolar_comercial": {
+        "tipo": "nivel",
+        "inicio": 5.2007,
+        "fim": 5.1447,
+        "variacao_pct": -1.08,
+        "media_periodo": 5.29,
+        "min": 4.8008,
+        "max": 6.097
+      },
+      "divida_bruta_pib": {
+        "tipo": "nivel",
+        "inicio": 71.38,
+        "fim": 82.87,
+        "variacao_pct": 16.1,
+        "media_periodo": 76.2,
+        "min": 71.38,
+        "max": 82.87
+      },
+      "divida_liquida_pib": {
+        "tipo": "nivel",
+        "inicio": -0.79,
+        "fim": -0.68,
+        "variacao_pct": -13.92,
+        "media_periodo": -1.08,
+        "min": -2.87,
+        "max": 0.55
+      },
+      "salario_minimo": {
+        "tipo": "nivel",
+        "inicio": 1302.0,
+        "fim": 1621.0,
+        "variacao_pct": 24.5,
+        "media_periodo": 1466.25,
+        "min": 1302.0,
+        "max": 1621.0
+      },
+      "desemprego_pnad": {
+        "tipo": "taxa_ou_fluxo",
+        "inicio": 8.4,
+        "fim": 5.3,
+        "media_periodo": 6.72,
+        "total_acumulado": null,
+        "min": 5.1,
+        "max": 8.8
+      },
+      "pib_acumulado_12m": {
+        "tipo": "nivel",
+        "inicio": 810360.1,
+        "fim": 1136769.3,
+        "variacao_pct": 40.28,
+        "media_periodo": 1013008.77,
+        "min": 810360.1,
+        "max": 1173616.3
+      },
+      "ganho_real_salario_minimo": {
+        "tipo": "derivado",
+        "ganho_real_pct": 4.74,
+        "formula": "Fórmula de Fisher [(1 + VarNom) / (1 + IPCA) - 1]"
+      }
+    }
+  }
+}
