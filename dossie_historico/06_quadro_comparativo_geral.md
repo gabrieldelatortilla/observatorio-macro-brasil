@@ -1,6 +1,6 @@
 # 🏛️ Observatório Macro Brasil: Quadro Comparativo de Governos (2003 - 2026)
 
-> **Data de Geração:** 26/10/2026 22:21 | **Fonte Primária:** Banco Central do Brasil (SGS) e IBGE
+> **Data de Geração:** 01/11/2026 12:17 | **Fonte Primária:** Banco Central do Brasil (SGS) e IBGE
 
 Este documento apresenta uma consolidação puramente estatística e factual comparando os mandatos de **Lula (1 e 2)**, **Dilma Rousseff**, **Michel Temer**, **Jair Bolsonaro** e **Lula (3)** sob a ótica das principais variáveis macroeconômicas.
 
@@ -15,7 +15,7 @@ Este documento apresenta uma consolidação puramente estatística e factual com
 | **Ganho Real do Salário Mínimo** | **+62.75%** | **+9.95%** | **+0.68%** | **-4.33%** | **+4.74%** |
 | **Dólar Comercial (Início → Fim)** | R$ 3.44 → R$ 1.69 (-50,7%) | R$ 1.67 → R$ 3.21 (+91,6%) | R$ 3.26 → R$ 3.89 (+19,3%) | R$ 3.74 → R$ 5.24 (+40,1%) | R$ 5.20 → R$ 5.14 (-1,1%) |
 | **Taxa Selic Média (% a.a.)** | 14.78% | 10.95% | 9.09% | 6.39% | 13.12% |
-| **Dívida Bruta (% PIB)** | 55.48% → 51.77% | 52.4% → 69.34% | 69.98% → 75.27% | 75.44% → 71.68% | 71.38% → 82.87% |
+| **Dívida Bruta (% PIB)** | 55.48% → 51.77% | 52.4% → 69.34% | 69.98% → 75.27% | 75.44% → 71.68% | 71.38% → 82.93% |
 
 ---
 

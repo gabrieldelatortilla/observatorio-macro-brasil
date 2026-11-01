@@ -431,18 +431,18 @@
       "divida_bruta_pib": {
         "tipo": "nivel",
         "inicio": 71.38,
-        "fim": 82.87,
-        "variacao_pct": 16.1,
-        "media_periodo": 76.2,
+        "fim": 82.93,
+        "variacao_pct": 16.18,
+        "media_periodo": 76.35,
         "min": 71.38,
-        "max": 82.87
+        "max": 82.93
       },
       "divida_liquida_pib": {
         "tipo": "nivel",
         "inicio": -0.79,
-        "fim": -0.68,
-        "variacao_pct": -13.92,
-        "media_periodo": -1.08,
+        "fim": -0.39,
+        "variacao_pct": -50.63,
+        "media_periodo": -1.06,
         "min": -2.87,
         "max": 0.55
       },
@@ -458,8 +458,8 @@
       "desemprego_pnad": {
         "tipo": "taxa_ou_fluxo",
         "inicio": 8.4,
-        "fim": 5.3,
-        "media_periodo": 6.72,
+        "fim": 5.2,
+        "media_periodo": 6.69,
         "total_acumulado": null,
         "min": 5.1,
         "max": 8.8
