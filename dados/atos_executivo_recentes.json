@@ -1,0 +1,224 @@
+{
+  "ultima_atualizacao": "2026-11-07 12:30:51",
+  "total_mpvs_rastreadas": 15,
+  "total_pls_rastreados": 10,
+  "medidas_provisorias": [
+    {
+      "id": 2651183,
+      "tipo": "MPV",
+      "numero": 1399,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data_apresentacao": "2026-11-04",
+      "link": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651183"
+    },
+    {
+      "id": 2648616,
+      "tipo": "MPV",
+      "numero": 1398,
+      "ano": 2026,
+      "ementa": "Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 300.000.000,00, para o fim que especifica.",
+      "data_apresentacao": "2026-10-21",
+      "link": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648616"
+    },
+    {
+      "id": 2648606,
+      "tipo": "MPV",
+      "numero": 1397,
+      "ano": 2026,
+      "ementa": "Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$6.494.296.446,00, para o fim que especifica.",
+      "data_apresentacao": "2026-10-21",
+      "link": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648606"
+    },
+    {
+      "id": 2647407,
+      "tipo": "MPV",
+      "numero": 1396,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a autenticação, a identificação e o bloqueio de chamadas telefônicas e mensagens nas redes de telecomunicações e institui base de dados centralizada de recursos de numeração.",
+      "data_apresentacao": "2026-10-13",
+      "link": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647407"
+    },
+    {
+      "id": 2647392,
+      "tipo": "MPV",
+      "numero": 1395,
+      "ano": 2026,
+      "ementa": "Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 7.520.000.000,00, para o fim que especifica.",
+      "data_apresentacao": "2026-10-09",
+      "link": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647392"
+    },
+    {
+      "id": 2647155,
+      "tipo": "MPV",
+      "numero": 1394,
+      "ano": 2026,
+      "ementa": "Proíbe a exploração, a oferta, a intermediação e a publicidade de loterias de apostas de quota fixa no território nacional, institui o Comitê Interinstitucional de Fiscalização\nda Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, e altera a Lei nº 14.790, de 29 de dezembro de 2023.",
+      "data_apresentacao": "2026-09-25",
+      "link": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647155"
+    },
+    {
+      "id": 2647154,
+      "tipo": "MPV",
+      "numero": 1393,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.690, de 3 de outubro de 2023, para instituir a Modalidade Emergencial de Renegociação de Dívidas de Pessoas Físicas Inadimplentes - Desenrola Brasil 3.0 e prever a adoção de medidas de promoção do crédito responsável, altera a Medida Provisória nº 1.373, de 29 de junho de 2026, para estabelecer novo prazo para o Programa Extraordinário de Reequilíbrio Financeiro de Tomadores de Crédito Adimplentes - Desenrola Adimplentes, e dá outras providências.",
+      "data_apresentacao": "2026-09-25",
+      "link": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647154"
+    },
+    {
+      "id": 2646885,
+      "tipo": "MPV",
+      "numero": 1392,
+      "ano": 2026,
+      "ementa": "Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento e Assistência Social, Família e Combate à Fome e dos Povos Indígenas, no valor de R$ 64.289.400,00, para os fins que especifica.",
+      "data_apresentacao": "2026-09-22",
+      "link": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646885"
+    },
+    {
+      "id": 2646385,
+      "tipo": "MPV",
+      "numero": 1391,
+      "ano": 2026,
+      "ementa": "Autoriza a concessão de subvenção econômica aos produtores e importadores de óleo diesel e suas correntes, com a finalidade de garantir o fornecimento de óleo diesel e suas correntes em todo o território nacional, enquanto houver instabilidade na oferta de combustíveis decorrentes de conflitos geopolíticos, e dispõe sobre o tratamento tributário dos depósitos a prazo sem emissão de certificado para fins do imposto de que trata a Lei nº 8.894, de 21 de junho de 1994.",
+      "data_apresentacao": "2026-09-11",
+      "link": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646385"
+    },
+    {
+      "id": 2646242,
+      "tipo": "MPV",
+      "numero": 1390,
+      "ano": 2026,
+      "ementa": "Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 375.000.000,00, para o fim que especifica.",
+      "data_apresentacao": "2026-09-09",
+      "link": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646242"
+    },
+    {
+      "id": 2646241,
+      "tipo": "MPV",
+      "numero": 1389,
+      "ano": 2026,
+      "ementa": "Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 6.605.000.000,00, para os fins que especifica.",
+      "data_apresentacao": "2026-09-09",
+      "link": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646241"
+    },
+    {
+      "id": 2644524,
+      "tipo": "MPV",
+      "numero": 1388,
+      "ano": 2026,
+      "ementa": "Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 3.152.000.000,00, para o fim que especifica.",
+      "data_apresentacao": "2026-08-25",
+      "link": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644524"
+    },
+    {
+      "id": 2644523,
+      "tipo": "MPV",
+      "numero": 1387,
+      "ano": 2026,
+      "ementa": "Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$ 7.000.000.000,00, para o fim que especifica.",
+      "data_apresentacao": "2026-08-25",
+      "link": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644523"
+    },
+    {
+      "id": 2644522,
+      "tipo": "MPV",
+      "numero": 1386,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a prorrogação excepcional dos prazos de suspensão de tributos previstos no regime aduaneiro especial de drawback suspensão, de que trata o art. 12 da Lei nº 11.945, de 4 de junho de 2009, para atos concessórios cujo cumprimento dos compromissos de exportação seja comprovadamente afetado pela aplicação de tarifas adicionais, diferenciadas por país de origem, sobre exportações brasileiras aos Estados Unidos da América.",
+      "data_apresentacao": "2026-08-25",
+      "link": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644522"
+    },
+    {
+      "id": 2643436,
+      "tipo": "MPV",
+      "numero": 1385,
+      "ano": 2026,
+      "ementa": "Abre crédito extraordinário, em favor do Ministério das Cidades e de Encargos Financeiros da União, no valor de R$ 3.500.000.000,00, para os fins que especifica.",
+      "data_apresentacao": "2026-08-13",
+      "link": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2643436"
+    }
+  ],
+  "projetos_lei": [
+    {
+      "id": 2651275,
+      "tipo": "PL",
+      "numero": 5788,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o rastreamento precoce do diabetes mellitus tipo 1 e da doença celíaca na população pediátrica, no âmbito do Sistema Único de Saúde (SUS), e altera a Lei nº 13.895, de 30 de outubro de 2019, que institui a Política Nacional de Prevenção do Diabetes e de Assistência Integral à Pessoa Diabética.",
+      "data_apresentacao": "2026-11-06"
+    },
+    {
+      "id": 2651272,
+      "tipo": "PL",
+      "numero": 5787,
+      "ano": 2026,
+      "ementa": "Institui a Lei do Silêncio Inclusivo e da Proteção Sensorial Imediata, estabelece medidas protetivas de urgência e mecanismos de intervenção policial destinados à preservação do sossego, da saúde e da integridade física, psíquica e sensorial de pessoas com vulnerabilidade comprovada a estímulos sonoros, especialmente crianças e pessoas idosas, confere ao delegado de polícia competência para determinar medidas emergenciais de cessação de perturbações abusivas, prevê responsabilização pelo descumprimento de determinações protetivas e altera o Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais).",
+      "data_apresentacao": "2026-11-06"
+    },
+    {
+      "id": 2651263,
+      "tipo": "PL",
+      "numero": 5786,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.594, de 18 de janeiro de 2012, para vedar a visita íntima a adolescente privado de liberdade no âmbito do Sistema Nacional de Atendimento Socioeducativo (Sinase), e revoga o art. 68 da mesma Lei.",
+      "data_apresentacao": "2026-11-06"
+    },
+    {
+      "id": 2651261,
+      "tipo": "PL",
+      "numero": 5785,
+      "ano": 2026,
+      "ementa": "Institui o Programa de Assistência Previdenciária Universitária (PAPU), destinado à mobilização de estudantes da educação superior para o apoio técnico supervisionado a segurados e potenciais beneficiários do Regime Geral de Previdência Social e do Benefício de Prestação Continuada, e altera a Lei nº 8.213, de 24 de julho de 1991, para dispor sobre a apresentação ao Instituto Nacional do Seguro Social de documentos produzidos no âmbito do Programa.",
+      "data_apresentacao": "2026-11-06"
+    },
+    {
+      "id": 2651243,
+      "tipo": "PL",
+      "numero": 5784,
+      "ano": 2026,
+      "ementa": "Institui diretrizes nacionais para a prevenção e o combate à fabricação, à comercialização e ao uso de linhas cortantes em pipas e artefatos similares; estabelece medidas de fiscalização, educação e responsabilização administrativa; e dá outras providências.",
+      "data_apresentacao": "2026-11-05"
+    },
+    {
+      "id": 2651239,
+      "tipo": "PL",
+      "numero": 5783,
+      "ano": 2026,
+      "ementa": "Altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e a Lei nº 5.889, de 8 de junho de 1973, para determinar que os intervalos intrajornada para repouso ou alimentação sejam computados na duração do trabalho e remunerados como de serviço efetivo.",
+      "data_apresentacao": "2026-11-05"
+    },
+    {
+      "id": 2651219,
+      "tipo": "PL",
+      "numero": 5782,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a garantia de direitos acadêmicos às estudantes vítimas de violência doméstica em todos os níveis de ensino, na rede pública e privada",
+      "data_apresentacao": "2026-11-05"
+    },
+    {
+      "id": 2651217,
+      "tipo": "PL",
+      "numero": 5781,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 8.080, de 19 de setembro de 1990, para qualificar a saúde como um direito humano.",
+      "data_apresentacao": "2026-11-05"
+    },
+    {
+      "id": 2651186,
+      "tipo": "PL",
+      "numero": 5779,
+      "ano": 2026,
+      "ementa": "Institui diretrizes nacionais para a valorização dos Agentes de Proteção da Infância e da Juventude e estabelece princípios para o reconhecimento, a capacitação e o apoio ao exercício de suas atividades.",
+      "data_apresentacao": "2026-11-05"
+    },
+    {
+      "id": 2651185,
+      "tipo": "PL",
+      "numero": 5778,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade da presença de Agentes de Proteção da Infância e Juventude em eventos públicos de grande porte, estabelece medidas de prevenção à violação dos direitos de crianças e adolescentes e dá outras providências.",
+      "data_apresentacao": "2026-11-05"
+    }
+  ]
+}
